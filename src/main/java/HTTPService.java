@@ -17,6 +17,10 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 
+/**
+ * autor Luis Ernesto Hernandez lopez
+ */
+
 public class HTTPService implements Runnable {
     public static final String CLASS_NAME = HTTPService.class.getSimpleName();
     private static final Logger LOG = Logger.getLogger(CLASS_NAME);
